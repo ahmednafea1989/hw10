@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/ahmednafea1989/hw10#readme",
   "dependencies": {
-    "inquirer": "^7.1.0",
-    "test": "^0.6.0"
+    "inquirer": "^7.1.0"
+    } ,
+    "devDependencies": {
+      "test": "^0.6.0"
+   
   }
 }
